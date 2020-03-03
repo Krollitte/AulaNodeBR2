@@ -2,6 +2,7 @@
  * 0 Obter um usuário
  * 1 Obter um numero de telefone de um usuario a partir do sei Id
  * 2 Obter o endereço do usuário pelo Id
+ * só pra corrigir um erro 
  */
 
  function obterUsuario(callback) {
